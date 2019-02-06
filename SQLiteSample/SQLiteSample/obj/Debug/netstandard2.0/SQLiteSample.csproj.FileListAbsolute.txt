@@ -1,0 +1,16 @@
+/Users/malikabaglan/Projects/SQLiteSample/SQLiteSample/bin/Debug/netstandard2.0/SQLiteSample.deps.json
+/Users/malikabaglan/Projects/SQLiteSample/SQLiteSample/bin/Debug/netstandard2.0/SQLiteSample.dll
+/Users/malikabaglan/Projects/SQLiteSample/SQLiteSample/bin/Debug/netstandard2.0/SQLiteSample.pdb
+/Users/malikabaglan/Projects/SQLiteSample/SQLiteSample/obj/Debug/netstandard2.0/SQLiteSample.csprojAssemblyReference.cache
+/Users/malikabaglan/Projects/SQLiteSample/SQLiteSample/obj/Debug/netstandard2.0/AddContact.xaml.g.cs
+/Users/malikabaglan/Projects/SQLiteSample/SQLiteSample/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/malikabaglan/Projects/SQLiteSample/SQLiteSample/obj/Debug/netstandard2.0/ContactList.xaml.g.cs
+/Users/malikabaglan/Projects/SQLiteSample/SQLiteSample/obj/Debug/netstandard2.0/ContactView.xaml.g.cs
+/Users/malikabaglan/Projects/SQLiteSample/SQLiteSample/obj/Debug/netstandard2.0/DetailsPage.xaml.g.cs
+/Users/malikabaglan/Projects/SQLiteSample/SQLiteSample/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/malikabaglan/Projects/SQLiteSample/SQLiteSample/obj/Debug/netstandard2.0/SQLiteSample.csproj.CoreCompileInputs.cache
+/Users/malikabaglan/Projects/SQLiteSample/SQLiteSample/obj/Debug/netstandard2.0/SQLiteSample.AssemblyInfoInputs.cache
+/Users/malikabaglan/Projects/SQLiteSample/SQLiteSample/obj/Debug/netstandard2.0/SQLiteSample.AssemblyInfo.cs
+/Users/malikabaglan/Projects/SQLiteSample/SQLiteSample/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/malikabaglan/Projects/SQLiteSample/SQLiteSample/obj/Debug/netstandard2.0/SQLiteSample.dll
+/Users/malikabaglan/Projects/SQLiteSample/SQLiteSample/obj/Debug/netstandard2.0/SQLiteSample.pdb

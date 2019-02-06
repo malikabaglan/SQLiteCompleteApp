@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{BF50313D-CCE0-4F4C-BEC5-ED66B5712CED}|Default">
+  <MonoDevelop.Ide.ItemProperties.SQLiteSample.Android FirstBuild="True" PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SQLiteSample.iOS/Main.cs">
+    <Files>
+      <File FileName="SQLiteSample/ContactValidator.cs" Line="22" Column="29" />
+      <File FileName="SQLiteSample/BaseContactViewModel.cs" Line="9" Column="2" />
+      <File FileName="SQLiteSample/AddContactViewModel.cs" Line="2" Column="28" />
+      <File FileName="SQLiteSample/DetailsViewModel.cs" Line="45" Column="14" />
+      <File FileName="SQLiteSample.iOS/IOSSQLite.cs" Line="30" Column="2" />
+      <File FileName="SQLiteSample/App.xaml" Line="5" Column="15" />
+      <File FileName="SQLiteSample/App.xaml.cs" Line="5" Column="30" />
+      <File FileName="SQLiteSample/AddContact.xaml" Line="15" Column="17" />
+      <File FileName="SQLiteSample/ContactList.xaml" Line="40" Column="16" />
+      <File FileName="SQLiteSample.iOS/Main.cs" Line="17" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SQLiteSample.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.38BBF37B-1F02-4DE0-80F5-37B25E6AA19F" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
